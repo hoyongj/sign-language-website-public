@@ -11,23 +11,26 @@
 
 I worked on **Korean Sign Language (KSL)** recognition project about for 4 months. As I plan to open the main repository later, I will give overall demonstation of my project in this repository.
 
-![Project Repository](./src/slw-repo.png)
+<img alt="Project Repository" src="./src/slw-repo.png" style="width:50%">
 
 
 ## 2. How does the model work
 
 First, I extracted landmark points from videos by using **Google - MediaPipe**.
 
-![MediaPipe Demo](./src/mediapipe-demo.png)
+<img alt="MediaPipe Demo" src="./src/mediapipe-demo.png" style="width:50%">
+
 
 (This is me.)
 
 
 Then, by using **Long short-term memory (LSTM)** layers, I built neural network model.
 
-![LSTM Demo - Wikipedia](./src/LSTM_Cell.svg)
 
-![Simple ANN - Wikipedia](./src/Colored_neural_network.svg)
+<img alt="LSTM Demo - Wikipedia" src="./src/LSTM_Cell.svg" style="width:30%">
+
+
+<img alt="Simple ANN - Wikipedia" src="./src/Colored_neural_network.svg" style="width:30%">
 
 (Images from Wikipedia)
 
