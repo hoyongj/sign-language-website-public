@@ -1,0 +1,10 @@
+version: '1'
+services:
+  backend:
+    image: hoyongj/ksl-digit-back:1
+    ports:
+      - "5001:5001"
+  frontend:
+    image: hoyongj/ksl-digit-front:1
+    ports:
+      - "80:80"
