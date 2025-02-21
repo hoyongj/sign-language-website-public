@@ -8,7 +8,7 @@
 
 ## 1. Introduction
 
-I worked on a **Korean Sign Language (KSL)** recognition project for about 4 months. As I plan to open the main repository later, I will provide an overall demonstration of my project in this repository. Currently, only numbers between 0 and 10 can be recognized.
+I worked on a **Korean Sign Language (KSL)** recognition project for about 4 months. As I plan to open the main repository later, I will provide an overall demonstration of my project in this repository. Currently, only numbers between 0 and 10 can be recognized. I trained the model with this [Dataset](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=264).
 
 <img alt="Project Repository" src="./src/slw-repo.png" style="width:50%">
 
